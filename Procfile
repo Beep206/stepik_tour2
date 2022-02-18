@@ -1,1 +1,1 @@
-web: gunicorn stepik_tours2.wsgi
+web: gunicorn tours.wsgi
